@@ -1,0 +1,11 @@
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\SGE_em_CSharp_fx_06_018.Properties.Resources.resources
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\SGE_em_CSharp_fx_06-018.csproj.GenerateResource.Cache
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\SGE_em_CSharp_fx_06-018.csprojResolveAssemblyReference.cache
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\SGE_em_CSharp_fx_06_018.Bag_frms.frmMover.resources
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\SGE_em_CSharp_fx_06_018.frmAluno.resources
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\SGE_em_CSharp_fx_06_018.Bag_frms.Jogo_fx.resources

@@ -1,0 +1,9 @@
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\Janelas do SGE 06-18.csprojResolveAssemblyReference.cache
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\Janelas do SGE 06-18.csproj.GenerateResource.Cache
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\UEM\ITC - LTP_3_06-018\Gestao Escolar CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
